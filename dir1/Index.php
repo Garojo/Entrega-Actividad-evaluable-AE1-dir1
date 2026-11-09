@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+/*aqui esto es para el push*/
 /*
   Mastermind numérico
   - Genera un número secreto de 3 cifras distintas.
